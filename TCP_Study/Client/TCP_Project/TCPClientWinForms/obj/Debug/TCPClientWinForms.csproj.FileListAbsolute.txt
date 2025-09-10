@@ -1,0 +1,11 @@
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\bin\Debug\TCPClientWinForms.exe.config
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\bin\Debug\TCPClientWinForms.exe
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\bin\Debug\TCPClientWinForms.pdb
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.csproj.AssemblyReference.cache
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.Form1.resources
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.Properties.Resources.resources
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.csproj.GenerateResource.cache
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.exe
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.pdb
+C:\Users\U2SR\Desktop\Client\TCP_Project\TCPClientWinForms\obj\Debug\TCPClientWinForms.exe.config

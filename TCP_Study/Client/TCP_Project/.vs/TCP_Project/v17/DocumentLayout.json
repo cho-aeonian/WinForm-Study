@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819933E8-D323-4E7E-8658-72DE77E027E0}|TCPClientWinForms\\TCPClientWinForms.csproj|c:\\users\\u2sr\\desktop\\tcp\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\client\\tcp_project\\tcpclientwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819933E8-D323-4E7E-8658-72DE77E027E0}|TCPClientWinForms\\TCPClientWinForms.csproj|solutionrelative:tcpclientwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819933E8-D323-4E7E-8658-72DE77E027E0}|TCPClientWinForms\\TCPClientWinForms.csproj|C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\tcpclientwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{819933E8-D323-4E7E-8658-72DE77E027E0}|TCPClientWinForms\\TCPClientWinForms.csproj|solutionrelative:tcpclientwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819933E8-D323-4E7E-8658-72DE77E027E0}|TCPClientWinForms\\TCPClientWinForms.csproj|C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\tcpclientwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819933E8-D323-4E7E-8658-72DE77E027E0}|TCPClientWinForms\\TCPClientWinForms.csproj|solutionrelative:tcpclientwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\TCPClientWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TCPClientWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\TCPClientWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "TCPClientWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwHAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:06:08.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\TCPClientWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TCPClientWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\TCPClientWinForms\\Form1.cs",
+              "RelativeToolTip": "TCPClientWinForms\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:46:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\TCP\uD1B5\uC2E0\uACFC\uC81C_\uBC15\uCD08\uC601\\Client\\TCP_Project\\TCPClientWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TCPClientWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\Client\\TCP_Project\\TCPClientWinForms\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\Client\\TCP_Project\\TCPClientWinForms\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:36:14.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.csproj.AssemblyReference.cache
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.Form1.resources
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.Properties.Resources.resources
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.csproj.GenerateResource.cache
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.csproj.CoreCompileInputs.cache
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\bin\Debug\TCPServerWinForms.exe.config
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\bin\Debug\TCPServerWinForms.exe
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\bin\Debug\TCPServerWinForms.pdb
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.exe
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.pdb
+C:\Users\U2SR\Desktop\Server\TCP_Project\TCPServerWinForms\obj\Debug\TCPServerWinForms.exe.config

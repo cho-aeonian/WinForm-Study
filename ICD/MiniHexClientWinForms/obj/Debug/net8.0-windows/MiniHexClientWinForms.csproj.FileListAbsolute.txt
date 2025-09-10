@@ -1,0 +1,32 @@
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.AssemblyInfoInputs.cache
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.AssemblyInfo.cs
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.csproj.CoreCompileInputs.cache
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.exe
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.deps.json
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.runtimeconfig.json
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.dll
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.pdb
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.dll
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\refint\MiniHexClientWinForms.dll
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.pdb
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.genruntimeconfig.cache
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\ref\MiniHexClientWinForms.dll
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.MainForm.resources
+F:\1.작업문서 및 참고문서\박초영학생\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.csproj.GenerateResource.cache
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.exe
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.deps.json
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.runtimeconfig.json
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.dll
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\bin\Debug\net8.0-windows\MiniHexClientWinForms.pdb
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.MainForm.resources
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.csproj.GenerateResource.cache
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.AssemblyInfoInputs.cache
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.AssemblyInfo.cs
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.dll
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\refint\MiniHexClientWinForms.dll
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.pdb
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\MiniHexClientWinForms.genruntimeconfig.cache
+C:\Users\U2SR\Desktop\HexMiniTeachingPack_WinForms_ReqResp\MiniHexClientWinForms\obj\Debug\net8.0-windows\ref\MiniHexClientWinForms.dll

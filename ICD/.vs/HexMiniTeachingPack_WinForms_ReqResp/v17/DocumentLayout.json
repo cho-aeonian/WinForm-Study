@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|c:\\users\\u2sr\\desktop\\hexminiteachingpack_winforms_reqresp\\minihexclientwinforms\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|solutionrelative:minihexclientwinforms\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\minihexclientwinforms\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|solutionrelative:minihexclientwinforms\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|c:\\users\\u2sr\\desktop\\hexminiteachingpack_winforms_reqresp\\minihexclientwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|solutionrelative:minihexclientwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|c:\\users\\u2sr\\desktop\\hexminiteachingpack_winforms_reqresp\\minihexclientwinforms\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|solutionrelative:minihexclientwinforms\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|c:\\users\\u2sr\\desktop\\hexminiteachingpack_winforms_reqresp\\minihexclientwinforms\\mainform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCDEF12-3456-7890-ABCD-1234567890AB}|MiniHexClientWinForms\\MiniHexClientWinForms.csproj|solutionrelative:minihexclientwinforms\\mainform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MiniHexClientWinForms\\MainForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\MainForm\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MiniHexClientWinForms\\MainForm\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:22:09.244Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\MainForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MiniHexClientWinForms\\MainForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\MainForm\\MainForm.cs",
+              "RelativeToolTip": "MiniHexClientWinForms\\MainForm\\MainForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:05:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "MiniHexClientWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\Program.cs",
+              "RelativeToolTip": "MiniHexClientWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:05:43.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\MainForm\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MiniHexClientWinForms\\MainForm\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\MainForm\\MainForm.Designer.cs",
+              "RelativeToolTip": "MiniHexClientWinForms\\MainForm\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:05:18.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\AppConfig.cs",
+              "RelativeDocumentMoniker": "MiniHexClientWinForms\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\U2SR\\Desktop\\HexMiniTeachingPack_WinForms_ReqResp\\MiniHexClientWinForms\\AppConfig.cs",
+              "RelativeToolTip": "MiniHexClientWinForms\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:05:07.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
