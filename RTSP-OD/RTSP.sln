@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTSP", "RTSP\RTSP.csproj", "{4912398D-34DA-4F0D-8B07-5212F9BC5232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4912398D-34DA-4F0D-8B07-5212F9BC5232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4912398D-34DA-4F0D-8B07-5212F9BC5232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4912398D-34DA-4F0D-8B07-5212F9BC5232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4912398D-34DA-4F0D-8B07-5212F9BC5232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427FD34A-AAD0-4876-A01F-E9C4FBC681B2}
+	EndGlobalSection
+EndGlobal
